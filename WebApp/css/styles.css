@@ -12,6 +12,14 @@ i{
     margin-left: 5px;
     color: white;
 }
+.topics{
+  color: #7E1416; 
+  text-align: center;
+   font-size: 40px; 
+   font-weight: 600;
+   margin-top: 150px;
+   margin-bottom: 50px;
+}
 .img-logo{
     margin-left: 100px;
 }
