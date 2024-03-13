@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install and view the Bull's Eye Outsourcing web page on your local machine, follow these steps:
 
-1. Clone the project repository from "", or download the ZIP file and extract it to your local machine.
+1. Clone the project repository from "https://github.com/MandiraTD/Sample-web-application.git", or download the ZIP file and extract it to your local machine.
 
 2. Navigate to the project directory where you have the extracted files.
 
@@ -30,7 +30,7 @@ The project is structured as follows:
 * `index.html`: The main HTML file that contains the structure of the web page.
 * `css/`: Directory containing the CSS files for styling the web page.
 * `js/`: Directory containing JavaScript files for interactive elements.
-* `assets/`: Directory containing images, fonts, and other assets used in the web page.
+* `imgs/`: Directory containing images, fonts, and other assets used in the web page.
 
 ## Features
 
@@ -46,25 +46,8 @@ To customize the web page, you can modify the HTML, CSS, and JavaScript files. E
 
 To contribute to Bull's Eye Outsourcing web page, follow these steps:
 1. Fork the repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`.
-4. Push to the original branch: `git push origin <project_name>/<location>`.
-5. Create the pull request.
+2. Make your changes and commit them: `git commit -m '<commit_message>'`.
+3. Push to the original branch: `git push origin Sample-web-application`.
+4. Create the pull request.
 
-## Contributors
 
-Thanks to the following people who have contributed to this project:
-
-* [Your Name or GitHub Profile]
-
-## Contact
-
-If you want to contact me you can reach me at [Your Email].
-
-## License
-
-This project uses the following license: [license_name].
-
----
-
-Remember to replace placeholders like `[Repository Link]`, `[Your Server Port]`, `[Your Name or GitHub Profile]`, `[Your Email]`, and `[license_name]` with the actual data relevant to your project.
